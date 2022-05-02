@@ -1,4 +1,4 @@
 # react-native-login-signup-ui
 
 ![Screenshot](login.jpg)
-![Screenshot](signup.jpg)
+![Screenshot](sign.sign.jpg)
